@@ -55,9 +55,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/expressltexx/proprietary/lib/libcordon.so:system/lib/libcordon.so \
     vendor/samsung/expressltexx/proprietary/lib/libfactoryutil.so:system/lib/libfactoryutil.so \
     vendor/samsung/expressltexx/proprietary/lib/libomission_avoidance.so:system/lib/libomission_avoidance.so \
-    vendor/samsung/expressltexx/proprietary/lib/libreference-ril.so:system/lib/libreference-ril.so \
     vendor/samsung/expressltexx/proprietary/lib/libril.so:system/lib/libril.so \
-    vendor/samsung/expressltexx/proprietary/lib/librilutils.so:system/lib/librilutils.so \
     vendor/samsung/expressltexx/proprietary/lib/libsec-ril.so:system/lib/libsec-ril.so \
     vendor/samsung/expressltexx/proprietary/lib/libxml.so:system/lib/libxml.so \
     vendor/samsung/expressltexx/proprietary/vendor/lib/libconfigdb.so:system/vendor/lib/libconfigdb.so \
