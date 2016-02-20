@@ -133,13 +133,13 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/expressltexx/proprietary/lib/libqc-opt.so:system/lib/libqc-opt.so \
     vendor/samsung/expressltexx/proprietary/bin/insthk:system/bin/insthk \
     vendor/samsung/expressltexx/proprietary/bin/qseecomd:system/bin/qseecomd \
-    vendor/samsung/expressltexx/proprietary/lib/libdrmdecrypt.so:system/lib/libdrmdecrypt.so \
     vendor/samsung/expressltexx/proprietary/lib/libdrmfs.so:system/lib/libdrmfs.so \
     vendor/samsung/expressltexx/proprietary/lib/libdrmtime.so:system/lib/libdrmtime.so \
     vendor/samsung/expressltexx/proprietary/lib/libhdcp2.so:system/lib/libhdcp2.so \
     vendor/samsung/expressltexx/proprietary/lib/libQSEEComAPI.so:system/lib/libQSEEComAPI.so \
     vendor/samsung/expressltexx/proprietary/vendor/lib/drm/libdrmwvmplugin.so:system/vendor/lib/drm/libdrmwvmplugin.so \
     vendor/samsung/expressltexx/proprietary/vendor/lib/mediadrm/libwvdrmengine.so:system/vendor/lib/mediadrm/libwvdrmengine.so \
+    vendor/samsung/expressltexx/proprietary/lib/libdrmdecrypt.so:system/lib/libdrmdecrypt.so \
     vendor/samsung/expressltexx/proprietary/vendor/lib/libwvm.so:system/vendor/lib/libwvm.so \
     vendor/samsung/expressltexx/proprietary/vendor/lib/libwvdrm_L1.so:system/vendor/lib/libwvdrm_L1.so \
     vendor/samsung/expressltexx/proprietary/vendor/lib/libWVStreamControlAPI_L1.so:system/vendor/lib/libWVStreamControlAPI_L1.so \
