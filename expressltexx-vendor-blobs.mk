@@ -45,7 +45,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/expressltexx/proprietary/vendor/lib/libsc-a3xx.so:system/vendor/lib/libsc-a3xx.so \
     vendor/samsung/expressltexx/proprietary/lib/libI420colorconvert.so:system/lib/libI420colorconvert.so \
     vendor/samsung/expressltexx/proprietary/lib/libmm-color-convertor.so:system/lib/libmm-color-convertor.so \
-    vendor/samsung/expressltexx/proprietary/bin/ds_fmc_appd:system/bin/ds_fmc_appd \
     vendor/samsung/expressltexx/proprietary/bin/qmuxd:system/bin/qmuxd \
     vendor/samsung/expressltexx/proprietary/bin/rild:system/bin/rild \
     vendor/samsung/expressltexx/proprietary/bin/rmt_storage:system/bin/rmt_storage \
