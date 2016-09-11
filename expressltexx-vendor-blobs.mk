@@ -141,12 +141,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/expressltexx/proprietary/vendor/lib/libwvm.so:system/vendor/lib/libwvm.so \
     vendor/samsung/expressltexx/proprietary/vendor/lib/libwvdrm_L3.so:system/vendor/lib/libwvdrm_L3.so \
     vendor/samsung/expressltexx/proprietary/vendor/lib/libWVStreamControlAPI_L3.so:system/vendor/lib/libWVStreamControlAPI_L3.so \
-    vendor/samsung/expressltexx/proprietary/lib/libOmxAacDec.so:system/lib/libOmxAacDec.so \
-    vendor/samsung/expressltexx/proprietary/lib/libOmxAmrwbplusDec.so:system/lib/libOmxAmrwbplusDec.so \
-    vendor/samsung/expressltexx/proprietary/lib/libOmxEvrcDec.so:system/lib/libOmxEvrcDec.so \
-    vendor/samsung/expressltexx/proprietary/lib/libOmxMux.so:system/lib/libOmxMux.so \
-    vendor/samsung/expressltexx/proprietary/lib/libOmxQcelp13Dec.so:system/lib/libOmxQcelp13Dec.so \
-    vendor/samsung/expressltexx/proprietary/lib/libOmxWmaDec.so:system/lib/libOmxWmaDec.so \
     vendor/samsung/expressltexx/proprietary/vendor/firmware/libpn547_fw.so:system/vendor/firmware/libpn547_fw.so \
     vendor/samsung/expressltexx/proprietary/vendor/firmware/libpn547_fw_eng.so:system/vendor/firmware/libpn547_fw_eng.so \
     vendor/samsung/expressltexx/proprietary/vendor/firmware/libpn547_fw_platform.so:system/vendor/firmware/libpn547_fw_platform.so
