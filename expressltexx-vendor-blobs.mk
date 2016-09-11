@@ -76,7 +76,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/expressltexx/proprietary/vendor/lib/libril-qcril-hook-oem.so:system/vendor/lib/libril-qcril-hook-oem.so \
     vendor/samsung/expressltexx/proprietary/bin/radish:system/bin/radish \
     vendor/samsung/expressltexx/proprietary/bin/time_daemon:system/bin/time_daemon \
-    vendor/samsung/expressltexx/proprietary/lib/libtime_genoff.so:system/lib/libtime_genoff.so \
     vendor/samsung/expressltexx/proprietary/bin/irsc_util:system/bin/irsc_util \
     vendor/samsung/expressltexx/proprietary/lib/libloc_api_v02.so:system/lib/libloc_api_v02.so \
     vendor/samsung/expressltexx/proprietary/vendor/lib/libgeofence.so:system/vendor/lib/libgeofence.so \
