@@ -126,7 +126,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/expressltexx/proprietary/lib/libsensor1.so:system/lib/libsensor1.so \
     vendor/samsung/expressltexx/proprietary/lib/libTsAccm.so:system/lib/libTsAccm.so \
     vendor/samsung/expressltexx/proprietary/lib/libTsAwb.so:system/lib/libTsAwb.so \
-    vendor/samsung/expressltexx/proprietary/vendor/lib/libqti-perfd-client.so:system/vendor/lib/libqti-perfd-client.so \
     vendor/samsung/expressltexx/proprietary/bin/insthk:system/bin/insthk \
     vendor/samsung/expressltexx/proprietary/bin/qseecomd:system/bin/qseecomd \
     vendor/samsung/expressltexx/proprietary/lib/libdrmfs.so:system/lib/libdrmfs.so \
