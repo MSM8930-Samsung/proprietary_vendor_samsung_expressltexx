@@ -47,7 +47,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/expressltexx/proprietary/bin/rild:system/bin/rild \
     vendor/samsung/expressltexx/proprietary/bin/rmt_storage:system/bin/rmt_storage \
     vendor/samsung/expressltexx/proprietary/etc/plmn_se13.bin:system/etc/plmn_se13.bin \
-    vendor/samsung/expressltexx/proprietary/lib/libfactoryutil.so:system/lib/libfactoryutil.so \
     vendor/samsung/expressltexx/proprietary/lib/libril.so:system/lib/libril.so \
     vendor/samsung/expressltexx/proprietary/lib/libsec-ril.so:system/lib/libsec-ril.so \
     vendor/samsung/expressltexx/proprietary/lib/libsecnativefeature.so:system/lib/libsecnativefeature.so \
