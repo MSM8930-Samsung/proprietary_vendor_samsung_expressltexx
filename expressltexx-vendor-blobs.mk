@@ -22,7 +22,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/expressltexx/proprietary/bin/mpdecision:system/bin/mpdecision \
     vendor/samsung/expressltexx/proprietary/bin/thermald:system/bin/thermald \
     vendor/samsung/expressltexx/proprietary/lib/libacdbloader.so:system/lib/libacdbloader.so \
-    vendor/samsung/expressltexx/proprietary/lib/libaudcal.so:system/lib/libaudcal.so \
     vendor/samsung/expressltexx/proprietary/etc/firmware/a300_pfp.fw:system/etc/firmware/a300_pfp.fw \
     vendor/samsung/expressltexx/proprietary/etc/firmware/a300_pm4.fw:system/etc/firmware/a300_pm4.fw \
     vendor/samsung/expressltexx/proprietary/etc/firmware/vidc_1080p.fw:system/etc/firmware/vidc_1080p.fw \
@@ -44,12 +43,14 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/expressltexx/proprietary/vendor/lib/libRSDriver_adreno.so:system/vendor/lib/libRSDriver_adreno.so \
     vendor/samsung/expressltexx/proprietary/vendor/lib/libsc-a3xx.so:system/vendor/lib/libsc-a3xx.so \
     vendor/samsung/expressltexx/proprietary/bin/qmuxd:system/bin/qmuxd \
-    vendor/samsung/expressltexx/proprietary/bin/rild:system/bin/rild \
     vendor/samsung/expressltexx/proprietary/bin/rmt_storage:system/bin/rmt_storage \
     vendor/samsung/expressltexx/proprietary/etc/plmn_se13.bin:system/etc/plmn_se13.bin \
     vendor/samsung/expressltexx/proprietary/lib/libfactoryutil.so:system/lib/libfactoryutil.so \
-    vendor/samsung/expressltexx/proprietary/lib/libril.so:system/lib/libril.so \
-    vendor/samsung/expressltexx/proprietary/lib/libsec-ril.so:system/lib/libsec-ril.so \
+    vendor/samsung/expressltexx/proprietary/vendor/bin/rild:system/vendor/bin/rild \
+    vendor/samsung/expressltexx/proprietary/vendor/lib/libril.so:system/vendor/lib/libril.so \
+    vendor/samsung/expressltexx/proprietary/vendor/lib/libsec-ril.so:system/vendor/lib/libsec-ril.so \
+    vendor/samsung/expressltexx/proprietary/vendor/lib/libaudcal.so:system/vendor/lib/libaudcal.so \
+    vendor/samsung/expressltexx/proprietary/vendor/lib/libloc_api_v02.so:system/vendor/lib/libloc_api_v02.so \
     vendor/samsung/expressltexx/proprietary/lib/libsecnativefeature.so:system/lib/libsecnativefeature.so \
     vendor/samsung/expressltexx/proprietary/lib/libsecril-client.so:system/lib/libsecril-client.so \
     vendor/samsung/expressltexx/proprietary/lib/libxml.so:system/lib/libxml.so \
@@ -69,7 +70,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/expressltexx/proprietary/bin/radish:system/bin/radish \
     vendor/samsung/expressltexx/proprietary/bin/time_daemon:system/bin/time_daemon \
     vendor/samsung/expressltexx/proprietary/bin/irsc_util:system/bin/irsc_util \
-    vendor/samsung/expressltexx/proprietary/lib/libloc_api_v02.so:system/lib/libloc_api_v02.so \
     vendor/samsung/expressltexx/proprietary/vendor/lib/libgeofence.so:system/vendor/lib/libgeofence.so \
     vendor/samsung/expressltexx/proprietary/vendor/lib/libizat_core.so:system/vendor/lib/libizat_core.so \
     vendor/samsung/expressltexx/proprietary/vendor/lib/liblbs_core.so:system/vendor/lib/liblbs_core.so \
