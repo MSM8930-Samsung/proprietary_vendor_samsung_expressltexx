@@ -122,7 +122,4 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/expressltexx/proprietary/lib/libTsAccm.so:system/lib/libTsAccm.so \
     vendor/samsung/expressltexx/proprietary/lib/libTsAwb.so:system/lib/libTsAwb.so \
     vendor/samsung/expressltexx/proprietary/vendor/lib/libqti-perfd-client.so:system/vendor/lib/libqti-perfd-client.so \
-    vendor/samsung/expressltexx/proprietary/vendor/lib/mediadrm/libwvdrmengine.so:system/vendor/lib/mediadrm/libwvdrmengine.so \
-    vendor/samsung/expressltexx/proprietary/vendor/firmware/libpn547_fw.so:system/vendor/firmware/libpn547_fw.so \
-    vendor/samsung/expressltexx/proprietary/vendor/firmware/libpn547_fw_eng.so:system/vendor/firmware/libpn547_fw_eng.so \
-    vendor/samsung/expressltexx/proprietary/vendor/firmware/libpn547_fw_platform.so:system/vendor/firmware/libpn547_fw_platform.so
+    vendor/samsung/expressltexx/proprietary/vendor/lib/mediadrm/libwvdrmengine.so:system/vendor/lib/mediadrm/libwvdrmengine.so
