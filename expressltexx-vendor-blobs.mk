@@ -74,7 +74,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/expressltexx/proprietary/vendor/lib/liblocationservice.so:system/vendor/lib/liblocationservice.so \
     vendor/samsung/expressltexx/proprietary/vendor/bin/geomagneticd:system/vendor/bin/geomagneticd \
     vendor/samsung/expressltexx/proprietary/vendor/lib/libacdapi_azi.so:system/vendor/lib/libacdapi_azi.so \
-    vendor/samsung/expressltexx/proprietary/vendor/lib/hw/sensors.msm8960.so:system/vendor/lib/hw/sensors.msm8960.so \
+    vendor/samsung/expressltexx/proprietary/vendor/lib/sensors.vendor.msm8960.so:system/vendor/lib/sensors.vendor.msm8960.so \
     vendor/samsung/expressltexx/proprietary/vendor/bin/mm-qcamera-daemon:system/vendor/bin/mm-qcamera-daemon \
     vendor/samsung/expressltexx/proprietary/vendor/lib/hw/camera.vendor.msm8960.so:system/vendor/lib/hw/camera.vendor.msm8960.so \
     vendor/samsung/expressltexx/proprietary/vendor/lib/libadsprpc.so:system/vendor/lib/libadsprpc.so \
