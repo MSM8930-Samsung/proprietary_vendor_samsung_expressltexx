@@ -17,7 +17,6 @@
 PRODUCT_COPY_FILES += \
     vendor/samsung/expressltexx/proprietary/vendor/bin/btnvtool:system/vendor/bin/btnvtool \
     vendor/samsung/expressltexx/proprietary/vendor/bin/hci_qcomm_init:system/vendor/bin/hci_qcomm_init \
-    vendor/samsung/expressltexx/proprietary/vendor/lib/libbtnv.so:system/vendor/lib/libbtnv.so \
     vendor/samsung/expressltexx/proprietary/vendor/bin/fm_qsoc_patches:system/vendor/bin/fm_qsoc_patches \
     vendor/samsung/expressltexx/proprietary/vendor/bin/mpdecision:system/vendor/bin/mpdecision \
     vendor/samsung/expressltexx/proprietary/vendor/bin/thermald:system/vendor/bin/thermald \
