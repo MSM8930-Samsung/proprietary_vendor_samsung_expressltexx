@@ -71,8 +71,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/expressltexx/proprietary/vendor/bin/irsc_util:system/vendor/bin/irsc_util \
     vendor/samsung/expressltexx/proprietary/vendor/lib/libgeofence.so:system/vendor/lib/libgeofence.so \
     vendor/samsung/expressltexx/proprietary/vendor/lib/libizat_core.so:system/vendor/lib/libizat_core.so \
-    vendor/samsung/expressltexx/proprietary/vendor/lib/liblbs_core.so:system/vendor/lib/liblbs_core.so \
-    vendor/samsung/expressltexx/proprietary/vendor/lib/liblocationservice.so:system/vendor/lib/liblocationservice.so \
+    vendor/samsung/expressltexx/proprietary/vendor/lib/libloc_ds_api.so:system/vendor/lib/libloc_ds_api.so \
     vendor/samsung/expressltexx/proprietary/vendor/bin/geomagneticd:system/vendor/bin/geomagneticd \
     vendor/samsung/expressltexx/proprietary/vendor/lib/libacdapi_azi.so:system/vendor/lib/libacdapi_azi.so \
     vendor/samsung/expressltexx/proprietary/vendor/lib/sensors.vendor.msm8960.so:system/vendor/lib/sensors.vendor.msm8960.so \
