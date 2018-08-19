@@ -44,11 +44,9 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/expressltexx/proprietary/vendor/bin/netmgrd:system/vendor/bin/netmgrd \
     vendor/samsung/expressltexx/proprietary/vendor/bin/qmuxd:system/vendor/bin/qmuxd \
     vendor/samsung/expressltexx/proprietary/vendor/bin/rmt_storage:system/vendor/bin/rmt_storage \
-    vendor/samsung/expressltexx/proprietary/lib/libfactoryutil.so:system/lib/libfactoryutil.so \
     vendor/samsung/expressltexx/proprietary/vendor/lib/libril-qc-qmi-1.so:system/vendor/lib/libril-qc-qmi-1.so \
     vendor/samsung/expressltexx/proprietary/vendor/lib/libaudcal.so:system/vendor/lib/libaudcal.so \
     vendor/samsung/expressltexx/proprietary/vendor/lib/libloc_api_v02.so:system/vendor/lib/libloc_api_v02.so \
-    vendor/samsung/expressltexx/proprietary/lib/libsecril-client.so:system/lib/libsecril-client.so \
     vendor/samsung/expressltexx/proprietary/vendor/lib/libconfigdb.so:system/vendor/lib/libconfigdb.so \
     vendor/samsung/expressltexx/proprietary/vendor/lib/libdiag.so:system/vendor/lib/libdiag.so \
     vendor/samsung/expressltexx/proprietary/vendor/lib/libdsi_netctrl.so:system/vendor/lib/libdsi_netctrl.so \
